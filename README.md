@@ -7,7 +7,7 @@ The **AI-Query Tool** is an offline assistant built using a Retrieval-Augmented 
 ## 🎥 Demo Video
 
 See the AI-Query Tool in action:  
-[Watch Demo Video](https://drive.google.com/drive/recent)
+[Watch Demo Video]([https://drive.google.com/drive/recent](https://drive.google.com/file/d/15vs9vniMKsAGDjCEgQEboOpFH3ZZf-89/view?usp=sharing))
 
 > *Note:* The video may show a tab named "CAT rock AI dev"—this is just my dev workspace and not a concern.
 
